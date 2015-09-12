@@ -1,7 +1,7 @@
 {
   "name": "bpg-nino-mtavruli-bold",
   "description": "BPG Nino Mtavruli Bold Web-Font Package",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-nino-mtavruli-bold"],
   "main": [
     "css/bpg-nino-mtavruli-bold.css"
